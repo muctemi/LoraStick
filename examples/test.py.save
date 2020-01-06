@@ -1,0 +1,21 @@
+from rn2903 import LoRa
+
+
+print("Set up LoRa..."),
+debug = False
+serial_port = 1
+timeout = 5000
+tx_data = "Hello!"
+
+
+lora = LoRa(serial_port, timeout, timeout, debug)
+print("Done")
+
+
+while(1):
+    pyb.LED(2).toggle()
+    temperature_read = d.read_temps()
+    print("Temperature = " + str(temperature_read))
+    lora.send_str(str(temperature_read))
+    pyb.delay(500)
+ser = serial.Serial(args.port, baudrate=57600)

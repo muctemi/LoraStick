@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rn2903
+Version: 0.2.0
+Summary: Uses Python 3 to Interface with a RN2903 LoRa Module Connected via USB
+Home-page: https://github.com/ANRGUSC/rn2903-lora-library
+Author: Ryan Winters
+Author-email: ryanwint@usc.edu
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN

@@ -1,0 +1,1068 @@
+Connect Device
+Attempting to Join OTAA may take up to 30 seconds
+OTAA Connection Try # 1
+command = b'mac join otaa\r\n'
+no_free_ch
+OTAA Connection Try # 2
+command = b'mac join otaa\r\n'
+ok
+Connect Device
+Attempting to Join OTAA may take up to 30 seconds
+OTAA Connection Try # 1
+command = b'mac join otaa\r\n'
+no_free_ch
+OTAA Connection Try # 2
+command = b'mac join otaa\r\n'
+ok
+Connect Device
+Attempting to Join OTAA may take up to 30 seconds
+OTAA Connection Try # 1
+command = b'mac join otaa\r\n'
+no_free_ch
+OTAA Connection Try # 2
+command = b'mac join otaa\r\n'
+ok
+Connect Device
+Attempting to Join OTAA may take up to 30 seconds
+OTAA Connection Try # 1
+command = b'mac join otaa\r\n'
+no_free_ch
+OTAA Connection Try # 2
+command = b'mac join otaa\r\n'
+ok
+OTAA Connection Try # 3
+command = b'mac join otaa\r\n'
+no_free_ch
+OTAA Connection Try # 4
+command = b'mac join otaa\r\n'
+ok
+OTAA Connection Try # 3
+command = b'mac join otaa\r\n'
+no_free_ch
+OTAA Connection Try # 4
+command = b'mac join otaa\r\n'
+ok
+OTAA Connection Try # 5
+command = b'mac join otaa\r\n'
+no_free_ch
+OTAA Connection Try # 6
+command = b'mac join otaa\r\n'
+ok
+accepted
+size = 52
+accepted
+size = 52
+accepted
+size = 52
+accepted
+size = 52
+command = b'mac tx uncnf 1 0010AA1578192120050\r\n'
+command = b'mac tx uncnf 1 0010AA1578192120059\r\n'
+command = b'mac tx uncnf 1 0010AA1578192120595\r\n'
+command = b'mac tx uncnf 1 0010AA1578192120269\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+RX Filter Step
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578192120059\r\n'
+command = b'mac tx uncnf 1 0010AA1578192120269\r\n'
+command = b'mac tx uncnf 1 0010AA1578192120050\r\n'
+command = b'mac tx uncnf 1 0010AA1578192120595\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578192120595,1578192138078,17483
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578192120050,1578192136551,16501
+size = 52
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578192120059,1578192135684,15625
+Bad Response from RN2903: mac_tx_ok
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578192120269,1578192136768,16499
+size = 52
+command = b'mac tx uncnf 1 0010AA1578192180732\r\n'
+command = b'mac tx uncnf 1 0010AA1578192180131\r\n'
+command = b'mac tx uncnf 1 0010AA1578192180605\r\n'
+command = b'mac tx uncnf 1 0010AA1578192180822\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578192180131\r\n'
+command = b'mac tx uncnf 1 0010AA1578192180605\r\n'
+command = b'mac tx uncnf 1 0010AA1578192180822\r\n'
+command = b'mac tx uncnf 1 0010AA1578192180732\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578192180131,1578192197013,16882
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578192180605,1578192197495,16890
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578192180732,1578192198664,17932
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578192180822,1578192197704,16882
+size = 52
+command = b'mac tx uncnf 1 0010AA1578192240067\r\n'
+command = b'mac tx uncnf 1 0010AA1578192240716\r\n'
+command = b'mac tx uncnf 1 0010AA1578192240549\r\n'
+command = b'mac tx uncnf 1 0010AA1578192240757\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578192240716\r\n'
+command = b'mac tx uncnf 1 0010AA1578192240067\r\n'
+command = b'mac tx uncnf 1 0010AA1578192240549\r\n'
+command = b'mac tx uncnf 1 0010AA1578192240757\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578192240549,1578192257441,16892
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578192240067,1578192256624,16557
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578192240757,1578192257638,16881
+size = 52
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578192240716,1578192256836,16120
+Bad Response from RN2903: mac_rx 1 00010AA1578192240716
+size = 52
+command = b'mac tx uncnf 1 0010AA1578192300884\r\n'
+command = b'mac tx uncnf 1 0010AA1578192300494\r\n'
+command = b'mac tx uncnf 1 0010AA1578192300691\r\n'
+command = b'mac tx uncnf 1 0010AA1578192300680\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578192300494\r\n'
+command = b'mac tx uncnf 1 0010AA1578192300691\r\n'
+command = b'mac tx uncnf 1 0010AA1578192300680\r\n'
+command = b'mac tx uncnf 1 0010AA1578192300884\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578192300884,1578192319039,18155
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578192300494,1578192317382,16888
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578192300691,1578192317581,16890
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578192300680,1578192317630,16950
+size = 52
+command = b'mac tx uncnf 1 0010AA1578192360091\r\n'
+command = b'mac tx uncnf 1 0010AA1578192360437\r\n'
+command = b'mac tx uncnf 1 0010AA1578192360635\r\n'
+command = b'mac tx uncnf 1 0010AA1578192360685\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 0010AA1578192360091\r\n'
+command = b'mac tx uncnf 1 0010AA1578192360437\r\n'
+command = b'mac tx uncnf 1 0010AA1578192360635\r\n'
+command = b'mac tx uncnf 1 0010AA1578192360685\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578192360091,1578192377137,17046
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578192360437,1578192377326,16889
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578192360635,1578192377527,16892
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578192360685,1578192377641,16956
+size = 52
+command = b'mac tx uncnf 1 0010AA1578192420191\r\n'
+command = b'mac tx uncnf 1 0010AA1578192420380\r\n'
+command = b'mac tx uncnf 1 0010AA1578192420580\r\n'
+command = b'mac tx uncnf 1 0010AA1578192420696\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578192420191\r\n'
+command = b'mac tx uncnf 1 0010AA1578192420696\r\n'
+command = b'mac tx uncnf 1 0010AA1578192420380\r\n'
+command = b'mac tx uncnf 1 0010AA1578192420580\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578192420380,1578192437266,16886
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578192420580,1578192437473,16893
+size = 52
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578192420191,1578192435844,15653
+Bad Response from RN2903: mac_tx_ok
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578192420696,1578192436851,16155
+size = 52
+command = b'mac tx uncnf 1 0010AA1578192480893\r\n'
+command = b'mac tx uncnf 1 0010AA1578192480321\r\n'
+command = b'mac tx uncnf 1 0010AA1578192480527\r\n'
+command = b'mac tx uncnf 1 0010AA1578192480905\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578192480321\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578192480527\r\n'
+command = b'mac tx uncnf 1 0010AA1578192480905\r\n'
+command = b'mac tx uncnf 1 0010AA1578192480893\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578192480527,1578192497420,16893
+size = 52
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578192480893,1578192498451,17558
+Bad Response from RN2903: mac_tx_ok
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578192480905,1578192497447,16542
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578192480321,1578192497513,17192
+size = 52
+command = b'mac tx uncnf 1 0010AA1578192540497\r\n'
+command = b'mac tx uncnf 1 0010AA1578192540475\r\n'
+command = b'mac tx uncnf 1 0010AA1578192540500\r\n'
+command = b'mac tx uncnf 1 0010AA1578192540565\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578192540475\r\n'
+command = b'mac tx uncnf 1 0010AA1578192540500\r\n'
+command = b'mac tx uncnf 1 0010AA1578192540565\r\n'
+command = b'mac tx uncnf 1 0010AA1578192540497\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578192540500,1578192557455,16955
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578192540565,1578192557456,16891
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578192540497,1578192559457,18960
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578192540475,1578192557556,17081
+size = 52
+command = b'mac tx uncnf 1 0010AA1578192600508\r\n'
+command = b'mac tx uncnf 1 0010AA1578192600509\r\n'
+command = b'mac tx uncnf 1 0010AA1578192600507\r\n'
+command = b'mac tx uncnf 1 0010AA1578192600610\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578192600507\r\n'
+command = b'mac tx uncnf 1 0010AA1578192600508\r\n'
+command = b'mac tx uncnf 1 0010AA1578192600509\r\n'
+command = b'mac tx uncnf 1 0010AA1578192600610\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578192600508,1578192617394,16886
+size = 52
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578192600509,1578192617408,16899
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578192600610,1578192617501,16891
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578192600507,1578192616655,16148
+size = 52
+command = b'mac tx uncnf 1 0010AA1578192660447\r\n'
+command = b'mac tx uncnf 1 0010AA1578192660461\r\n'
+command = b'mac tx uncnf 1 0010AA1578192660556\r\n'
+command = b'mac tx uncnf 1 0010AA1578192660711\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578192660461\r\n'
+command = b'mac tx uncnf 1 0010AA1578192660447\r\n'
+command = b'mac tx uncnf 1 0010AA1578192660556\r\n'
+command = b'mac tx uncnf 1 0010AA1578192660711\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578192660461,1578192676086,15625
+Bad Response from RN2903: mac_rx 1 00010AA1578192660461
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578192660447,1578192677334,16887
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578192660556,1578192677445,16889
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578192660711,1578192677667,16956
+size = 52
+command = b'mac tx uncnf 1 0010AA1578192720135\r\n'
+command = b'mac tx uncnf 1 0010AA1578192720388\r\n'
+command = b'mac tx uncnf 1 0010AA1578192720500\r\n'
+command = b'mac tx uncnf 1 0010AA1578192720721\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 0010AA1578192720135\r\n'
+command = b'mac tx uncnf 1 0010AA1578192720388\r\n'
+command = b'mac tx uncnf 1 0010AA1578192720500\r\n'
+command = b'mac tx uncnf 1 0010AA1578192720721\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578192720135,1578192736236,16101
+Bad Response from RN2903: mac_tx_ok
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578192720388,1578192737276,16888
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578192720500,1578192737384,16884
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578192720721,1578192737663,16942
+size = 52
+command = b'mac tx uncnf 1 0010AA1578192780282\r\n'
+command = b'mac tx uncnf 1 0010AA1578192780331\r\n'
+command = b'mac tx uncnf 1 0010AA1578192780438\r\n'
+command = b'mac tx uncnf 1 0010AA1578192780716\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578192780331\r\n'
+command = b'mac tx uncnf 1 0010AA1578192780438\r\n'
+command = b'mac tx uncnf 1 0010AA1578192780716\r\n'
+command = b'mac tx uncnf 1 0010AA1578192780282\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578192780331,1578192797224,16893
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578192780438,1578192797337,16899
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578192780716,1578192797664,16948
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578192780282,1578192798682,18400
+size = 52
+command = b'mac tx uncnf 1 0010AA1578192840735\r\n'
+command = b'mac tx uncnf 1 0010AA1578192840277\r\n'
+command = b'mac tx uncnf 1 0010AA1578192840391\r\n'
+command = b'mac tx uncnf 1 0010AA1578192840718\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 0010AA1578192840735\r\n'
+command = b'mac tx uncnf 1 0010AA1578192840277\r\n'
+command = b'mac tx uncnf 1 0010AA1578192840391\r\n'
+command = b'mac tx uncnf 1 0010AA1578192840718\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578192840277,1578192857159,16882
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578192840391,1578192857275,16884
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578192840718,1578192857655,16937
+size = 52
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578192840735,1578192856830,16095
+Bad Response from RN2903: mac_rx 1 01
+size = 52
+command = b'mac tx uncnf 1 0010AA1578192900878\r\n'
+command = b'mac tx uncnf 1 0010AA1578192900212\r\n'
+command = b'mac tx uncnf 1 0010AA1578192900329\r\n'
+command = b'mac tx uncnf 1 0010AA1578192900708\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578192900878\r\n'
+command = b'mac tx uncnf 1 0010AA1578192900212\r\n'
+command = b'mac tx uncnf 1 0010AA1578192900329\r\n'
+command = b'mac tx uncnf 1 0010AA1578192900708\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578192900212,1578192917099,16887
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578192900329,1578192917213,16884
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578192900708,1578192917249,16541
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578192900878,1578192918410,17532
+size = 52
+command = b'mac tx uncnf 1 0010AA1578192960463\r\n'
+command = b'mac tx uncnf 1 0010AA1578192960154\r\n'
+command = b'mac tx uncnf 1 0010AA1578192960266\r\n'
+command = b'mac tx uncnf 1 0010AA1578192960303\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 0010AA1578192960463\r\n'
+command = b'mac tx uncnf 1 0010AA1578192960154\r\n'
+command = b'mac tx uncnf 1 0010AA1578192960266\r\n'
+command = b'mac tx uncnf 1 0010AA1578192960303\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578192960463,1578192977984,17521
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578192960154,1578192977040,16886
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578192960266,1578192977156,16890
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578192960303,1578192977241,16938
+size = 52
+command = b'mac tx uncnf 1 0010AA1578193020038\r\n'
+command = b'mac tx uncnf 1 0010AA1578193020095\r\n'
+command = b'mac tx uncnf 1 0010AA1578193020209\r\n'
+command = b'mac tx uncnf 1 0010AA1578193020296\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 0010AA1578193020038\r\n'
+command = b'mac tx uncnf 1 0010AA1578193020095\r\n'
+command = b'mac tx uncnf 1 0010AA1578193020209\r\n'
+command = b'mac tx uncnf 1 0010AA1578193020296\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578193020095,1578193036995,16900
+size = 52
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578193020038,1578193036055,16017
+Bad Response from RN2903: mac_rx 1 00010AA1578193020038
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578193020209,1578193037097,16888
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578193020296,1578193037226,16930
+size = 52
+command = b'mac tx uncnf 1 0010AA1578193080102\r\n'
+command = b'mac tx uncnf 1 0010AA1578193080049\r\n'
+command = b'mac tx uncnf 1 0010AA1578193080152\r\n'
+command = b'mac tx uncnf 1 0010AA1578193080280\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578193080102\r\n'
+command = b'mac tx uncnf 1 0010AA1578193080280\r\n'
+command = b'mac tx uncnf 1 0010AA1578193080049\r\n'
+command = b'mac tx uncnf 1 0010AA1578193080152\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578193080152,1578193097044,16892
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578193080280,1578193096439,16159
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578193080102,1578193098538,18436
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578193080049,1578193096942,16893
+size = 52
+command = b'mac tx uncnf 1 0010AA1578193140096\r\n'
+command = b'mac tx uncnf 1 0010AA1578193140495\r\n'
+command = b'mac tx uncnf 1 0010AA1578193140589\r\n'
+command = b'mac tx uncnf 1 0010AA1578193140996\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578193140096\r\n'
+command = b'mac tx uncnf 1 0010AA1578193140589\r\n'
+command = b'mac tx uncnf 1 0010AA1578193140495\r\n'
+command = b'mac tx uncnf 1 0010AA1578193140996\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578193140096,1578193156986,16890
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578193140495,1578193157040,16545
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578193140996,1578193158165,17169
+size = 52
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578193140589,1578193156643,16054
+Bad Response from RN2903: mac_tx_ok
+size = 52
+command = b'mac tx uncnf 1 0010AA1578193200691\r\n'
+command = b'mac tx uncnf 1 0010AA1578193200038\r\n'
+command = b'mac tx uncnf 1 0010AA1578193200094\r\n'
+command = b'mac tx uncnf 1 0010AA1578193200217\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578193200038\r\n'
+command = b'mac tx uncnf 1 0010AA1578193200094\r\n'
+command = b'mac tx uncnf 1 0010AA1578193200217\r\n'
+command = b'mac tx uncnf 1 0010AA1578193200691\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578193200094,1578193217050,16956
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578193200217,1578193217102,16885
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578193200038,1578193217131,17093
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578193200691,1578193218937,18246
+size = 52
+command = b'mac tx uncnf 1 0010AA1578193260104\r\n'
+command = b'mac tx uncnf 1 0010AA1578193260156\r\n'
+command = b'mac tx uncnf 1 0010AA1578193260184\r\n'
+command = b'mac tx uncnf 1 0010AA1578193260990\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578193260156\r\n'
+command = b'mac tx uncnf 1 0010AA1578193260104\r\n'
+command = b'mac tx uncnf 1 0010AA1578193260184\r\n'
+command = b'mac tx uncnf 1 0010AA1578193260990\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578193260156,1578193277048,16892
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578193260104,1578193277064,16960
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578193260184,1578193277082,16898
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578193260990,1578193277877,16887
+size = 52
+command = b'mac tx uncnf 1 0010AA1578193320102\r\n'
+command = b'mac tx uncnf 1 0010AA1578193320118\r\n'
+command = b'mac tx uncnf 1 0010AA1578193320136\r\n'
+command = b'mac tx uncnf 1 0010AA1578193320931\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578193320118\r\n'
+command = b'mac tx uncnf 1 0010AA1578193320931\r\n'
+command = b'mac tx uncnf 1 0010AA1578193320102\r\n'
+command = b'mac tx uncnf 1 0010AA1578193320136\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578193320102,1578193336975,16873
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578193320931,1578193337989,17058
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578193320136,1578193337025,16889
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578193320118,1578193336268,16150
+size = 52
+command = b'mac tx uncnf 1 0010AA1578193380030\r\n'
+command = b'mac tx uncnf 1 0010AA1578193380040\r\n'
+command = b'mac tx uncnf 1 0010AA1578193380078\r\n'
+command = b'mac tx uncnf 1 0010AA1578193380322\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 0010AA1578193380030\r\n'
+command = b'mac tx uncnf 1 0010AA1578193380040\r\n'
+command = b'mac tx uncnf 1 0010AA1578193380078\r\n'
+command = b'mac tx uncnf 1 0010AA1578193380322\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578193380078,1578193396965,16887
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578193380322,1578193397263,16941
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578193380030,1578193396926,16896
+size = 52
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578193380040,1578193396931,16891
+size = 52
+command = b'mac tx uncnf 1 0010AA1578193440019\r\n'
+command = b'mac tx uncnf 1 0010AA1578193440317\r\n'
+command = b'mac tx uncnf 1 0010AA1578193440982\r\n'
+command = b'mac tx uncnf 1 0010AA1578193440986\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578193440317\r\n'
+command = b'mac tx uncnf 1 0010AA1578193440019\r\n'
+command = b'mac tx uncnf 1 0010AA1578193440982\r\n'
+command = b'mac tx uncnf 1 0010AA1578193440986\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578193440982,1578193458163,17181
+size = 52
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578193440986,1578193458208,17222
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578193440317,1578193456479,16162
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578193440019,1578193456902,16883
+size = 52
+command = b'mac tx uncnf 1 0010AA1578193500262\r\n'
+command = b'mac tx uncnf 1 0010AA1578193500217\r\n'
+command = b'mac tx uncnf 1 0010AA1578193500535\r\n'
+command = b'mac tx uncnf 1 0010AA1578193500958\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578193500262\r\n'
+command = b'mac tx uncnf 1 0010AA1578193500535\r\n'
+command = b'mac tx uncnf 1 0010AA1578193500217\r\n'
+command = b'mac tx uncnf 1 0010AA1578193500958\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578193500217,1578193517096,16879
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578193500535,1578193516690,16155
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578193500958,1578193517853,16895
+size = 52
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578193500262,1578193515881,15619
+Bad Response from RN2903: mac_rx 1 00010AA1578193500262
+size = 52
+command = b'mac tx uncnf 1 0010AA1578193560931\r\n'
+command = b'mac tx uncnf 1 0010AA1578193560150\r\n'
+command = b'mac tx uncnf 1 0010AA1578193560746\r\n'
+command = b'mac tx uncnf 1 0010AA1578193560905\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 0010AA1578193560150\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578193560746\r\n'
+command = b'mac tx uncnf 1 0010AA1578193560905\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 0010AA1578193560931\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578193560150,1578193577040,16890
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578193560931,1578193579607,18676
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578193560746,1578193577683,16937
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578193560905,1578193577797,16892
+size = 52
+command = b'mac tx uncnf 1 0010AA1578193620094\r\n'
+command = b'mac tx uncnf 1 0010AA1578193620659\r\n'
+command = b'mac tx uncnf 1 0010AA1578193620736\r\n'
+command = b'mac tx uncnf 1 0010AA1578193620851\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 0010AA1578193620659\r\n'
+command = b'mac tx uncnf 1 0010AA1578193620094\r\n'
+command = b'mac tx uncnf 1 0010AA1578193620736\r\n'
+command = b'mac tx uncnf 1 0010AA1578193620851\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578193620094,1578193636992,16898
+size = 52
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578193620659,1578193636274,15615
+Bad Response from RN2903: mac_rx 1 00010AA1578193620659
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578193620736,1578193637694,16958
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578193620851,1578193637748,16897
+size = 52
+command = b'mac tx uncnf 1 0010AA1578193680322\r\n'
+command = b'mac tx uncnf 1 0010AA1578193680046\r\n'
+command = b'mac tx uncnf 1 0010AA1578193680747\r\n'
+command = b'mac tx uncnf 1 0010AA1578193680798\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578193680322\r\n'
+command = b'mac tx uncnf 1 0010AA1578193680046\r\n'
+command = b'mac tx uncnf 1 0010AA1578193680747\r\n'
+command = b'mac tx uncnf 1 0010AA1578193680798\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578193680322,1578193696433,16111
+Bad Response from RN2903: mac_tx_ok
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578193680798,1578193697687,16889
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578193680747,1578193696891,16144
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578193680046,1578193696935,16889
+size = 52
+command = b'mac tx uncnf 1 0010AA1578193740481\r\n'
+command = b'mac tx uncnf 1 0010AA1578193740741\r\n'
+command = b'mac tx uncnf 1 0010AA1578193740945\r\n'
+command = b'mac tx uncnf 1 0010AA1578193740990\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578193740481\r\n'
+command = b'mac tx uncnf 1 0010AA1578193740945\r\n'
+command = b'mac tx uncnf 1 0010AA1578193740741\r\n'
+command = b'mac tx uncnf 1 0010AA1578193740990\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578193740945,1578193757095,16150
+size = 52
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578193740481,1578193756592,16111
+Bad Response from RN2903: mac_tx_ok
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578193740741,1578193757634,16893
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578193740990,1578193757891,16901
+size = 52
+command = b'mac tx uncnf 1 0010AA1578193800641\r\n'
+command = b'mac tx uncnf 1 0010AA1578193800149\r\n'
+command = b'mac tx uncnf 1 0010AA1578193800689\r\n'
+command = b'mac tx uncnf 1 0010AA1578193800945\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578193800149\r\n'
+command = b'mac tx uncnf 1 0010AA1578193800689\r\n'
+command = b'mac tx uncnf 1 0010AA1578193800945\r\n'
+command = b'mac tx uncnf 1 0010AA1578193800641\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578193800689,1578193817577,16888
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578193800149,1578193816697,16548
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578193800945,1578193817833,16888
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578193800641,1578193818847,18206
+size = 52
+command = b'mac tx uncnf 1 0010AA1578193860631\r\n'
+command = b'mac tx uncnf 1 0010AA1578193860753\r\n'
+command = b'mac tx uncnf 1 0010AA1578193860886\r\n'
+command = b'mac tx uncnf 1 0010AA1578193860898\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578193860753\r\n'
+command = b'mac tx uncnf 1 0010AA1578193860631\r\n'
+command = b'mac tx uncnf 1 0010AA1578193860898\r\n'
+command = b'mac tx uncnf 1 0010AA1578193860886\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578193860898,1578193877391,16493
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578193860631,1578193877511,16880
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578193860886,1578193877781,16895
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578193860753,1578193876915,16162
+size = 52
+command = b'mac tx uncnf 1 0010AA1578193920445\r\n'
+command = b'mac tx uncnf 1 0010AA1578193920564\r\n'
+command = b'mac tx uncnf 1 0010AA1578193920832\r\n'
+command = b'mac tx uncnf 1 0010AA1578193920969\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 0010AA1578193920445\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578193920564\r\n'
+command = b'mac tx uncnf 1 0010AA1578193920969\r\n'
+command = b'mac tx uncnf 1 0010AA1578193920832\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578193920445,1578193936066,15621
+Bad Response from RN2903: mac_rx 1 00010AA1578193920445
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578193920564,1578193937460,16896
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578193920969,1578193937525,16556
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578193920832,1578193937711,16879
+size = 52
+command = b'mac tx uncnf 1 0010AA1578193980114\r\n'
+command = b'mac tx uncnf 1 0010AA1578193980515\r\n'
+command = b'mac tx uncnf 1 0010AA1578193980580\r\n'
+command = b'mac tx uncnf 1 0010AA1578193980764\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 0010AA1578193980114\r\n'
+command = b'mac tx uncnf 1 0010AA1578193980515\r\n'
+command = b'mac tx uncnf 1 0010AA1578193980580\r\n'
+command = b'mac tx uncnf 1 0010AA1578193980764\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578193980114,1578193996227,16113
+Bad Response from RN2903: mac_tx_ok
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578193980515,1578193997408,16893
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578193980580,1578193997528,16948
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578193980764,1578193997654,16890
+size = 52
+command = b'mac tx uncnf 1 0010AA1578194040274\r\n'
+command = b'mac tx uncnf 1 0010AA1578194040461\r\n'
+command = b'mac tx uncnf 1 0010AA1578194040582\r\n'
+command = b'mac tx uncnf 1 0010AA1578194040708\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578194040274\r\n'
+command = b'mac tx uncnf 1 0010AA1578194040582\r\n'
+command = b'mac tx uncnf 1 0010AA1578194040461\r\n'
+command = b'mac tx uncnf 1 0010AA1578194040708\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578194040461,1578194057344,16883
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578194040708,1578194057595,16887
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578194040274,1578194058712,18438
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578194040582,1578194056742,16160
+size = 52
+command = b'mac tx uncnf 1 0010AA1578194100763\r\n'
+command = b'mac tx uncnf 1 0010AA1578194100399\r\n'
+command = b'mac tx uncnf 1 0010AA1578194100648\r\n'
+command = b'mac tx uncnf 1 0010AA1578194100796\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 0010AA1578194100763\r\n'
+command = b'mac tx uncnf 1 0010AA1578194100399\r\n'
+command = b'mac tx uncnf 1 0010AA1578194100648\r\n'
+command = b'mac tx uncnf 1 0010AA1578194100796\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578194100399,1578194117297,16898
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578194100648,1578194117536,16888
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578194100796,1578194117757,16961
+size = 52
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578194100763,1578194116844,16081
+Bad Response from RN2903: mac_rx 1 00010AA1578194100763
+size = 52
+command = b'mac tx uncnf 1 0010AA1578194160890\r\n'
+command = b'mac tx uncnf 1 0010AA1578194160348\r\n'
+command = b'mac tx uncnf 1 0010AA1578194160590\r\n'
+command = b'mac tx uncnf 1 0010AA1578194160809\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578194160348\r\n'
+command = b'mac tx uncnf 1 0010AA1578194160809\r\n'
+command = b'mac tx uncnf 1 0010AA1578194160590\r\n'
+command = b'mac tx uncnf 1 0010AA1578194160890\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578194160809,1578194177356,16547
+size = 52
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578194160890,1578194178405,17515
+Bad Response from RN2903: mac_tx_ok
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578194160590,1578194177482,16892
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578194160348,1578194177512,17164
+size = 52
+command = b'mac tx uncnf 1 0010AA1578194220450\r\n'
+command = b'mac tx uncnf 1 0010AA1578194220411\r\n'
+command = b'mac tx uncnf 1 0010AA1578194220536\r\n'
+command = b'mac tx uncnf 1 0010AA1578194220566\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578194220411\r\n'
+command = b'mac tx uncnf 1 0010AA1578194220536\r\n'
+command = b'mac tx uncnf 1 0010AA1578194220566\r\n'
+command = b'mac tx uncnf 1 0010AA1578194220450\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578194220450,1578194239071,18621
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578194220536,1578194237428,16892
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578194220566,1578194237462,16896
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578194220411,1578194236570,16159
+size = 52
+command = b'mac tx uncnf 1 0010AA1578194280123\r\n'
+command = b'mac tx uncnf 1 0010AA1578194280482\r\n'
+command = b'mac tx uncnf 1 0010AA1578194280514\r\n'
+command = b'mac tx uncnf 1 0010AA1578194280625\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 0010AA1578194280123\r\n'
+command = b'mac tx uncnf 1 0010AA1578194280482\r\n'
+command = b'mac tx uncnf 1 0010AA1578194280514\r\n'
+command = b'mac tx uncnf 1 0010AA1578194280625\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578194280123,1578194296259,16136
+Bad Response from RN2903: mac_rx 1 01
+size = 52
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578194280482,1578194297365,16883
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578194280514,1578194297411,16897
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578194280625,1578194297575,16950
+size = 52
+command = b'mac tx uncnf 1 0010AA1578194340306\r\n'
+command = b'mac tx uncnf 1 0010AA1578194340419\r\n'
+command = b'mac tx uncnf 1 0010AA1578194340462\r\n'
+command = b'mac tx uncnf 1 0010AA1578194340629\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578194340419\r\n'
+command = b'mac tx uncnf 1 0010AA1578194340462\r\n'
+command = b'mac tx uncnf 1 0010AA1578194340629\r\n'
+command = b'mac tx uncnf 1 0010AA1578194340306\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+TEST/dev/ttyUSB1,@25,1,ChallangeResp,sf10,1578194340419,1578194357301,16882
+size = 52
+TEST/dev/ttyUSB3,@25,1,ChallangeResp,sf10,1578194340462,1578194357349,16887
+size = 52
+RX Filter Step
+TEST/dev/ttyUSB0,@25,1,ChallangeResp,sf10,1578194340306,1578194358556,18250
+size = 52
+TEST/dev/ttyUSB2,@25,1,ChallangeResp,sf10,1578194340629,1578194357569,16940
+size = 52
+command = b'mac tx uncnf 1 0010AA1578194400608\r\n'
+command = b'mac tx uncnf 1 0010AA1578194400355\r\n'
+command = b'mac tx uncnf 1 0010AA1578194400402\r\n'
+command = b'mac tx uncnf 1 0010AA1578194400624\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+command = b'mac tx uncnf 1 01\r\n'
+RX Filter Step
+command = b'mac tx uncnf 1 0010AA1578194400608\r\n'
+command = b'mac tx uncnf 1 0010AA1578194400624\r\n'
+command = b'mac tx uncnf 1 0010AA1578194400355\r\n'
+command = b'mac tx uncnf 1 0010AA1578194400402\r\n'

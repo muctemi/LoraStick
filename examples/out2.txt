@@ -1,0 +1,61 @@
+Interface: enp0s25, datalink type: EN10MB (Ethernet)
+Starting arp-scan 1.9.5 with 256 hosts (https://github.com/royhills/arp-scan)
+10.102.206.1	00:22:0c:9f:44:00	Cisco Systems, Inc
+10.102.206.12	98:90:96:b5:30:f9	Dell Inc.
+10.102.206.27	00:1a:a0:c1:6b:32	Dell Inc.
+10.102.206.30	ec:b1:d7:68:c4:fe	Hewlett Packard
+10.102.206.31	ec:b1:d7:3b:be:24	Hewlett Packard
+10.102.206.37	50:65:f3:4b:00:38	Hewlett Packard
+10.102.206.42	00:80:2f:11:df:bf	NATIONAL INSTRUMENTS CORP.
+10.102.206.45	00:23:7d:1b:b6:5b	Hewlett Packard
+10.102.206.46	2c:44:fd:89:38:41	Hewlett Packard
+10.102.206.47	34:17:eb:d2:ef:41	Dell Inc.
+10.102.206.48	00:0f:fe:69:5a:bb	G-PRO COMPUTER
+10.102.206.49	b8:83:03:47:68:b8	(Unknown)
+10.102.206.56	18:60:24:f3:e8:c3	(Unknown)
+10.102.206.60	e4:e7:49:53:6d:e7	(Unknown)
+10.102.206.66	18:66:da:2b:35:e4	Dell Inc.
+10.102.206.67	ec:b1:d7:3b:7c:e5	Hewlett Packard
+10.102.206.73	70:85:c2:ac:2c:3d	ASRock Incorporation
+10.102.206.81	28:c6:8e:36:da:3a	NETGEAR
+10.102.206.88	00:10:7f:15:4c:90	CRESTRON ELECTRONICS, INC.
+10.102.206.90	dc:4a:3e:75:29:93	Hewlett Packard
+10.102.206.91	24:be:05:0d:ff:f6	Hewlett Packard
+10.102.206.92	08:2e:5f:2a:5d:ec	Hewlett Packard
+10.102.206.103	ec:b1:d7:3b:7c:d3	Hewlett Packard
+10.102.206.116	18:60:24:8a:85:7c	(Unknown)
+10.102.206.120	3c:52:82:78:f9:b0	(Unknown)
+10.102.206.126	ec:b1:d7:3b:7c:6f	Hewlett Packard
+10.102.206.139	00:25:90:e7:83:05	Super Micro Computer, Inc.
+10.102.206.142	00:10:7f:08:81:f9	CRESTRON ELECTRONICS, INC.
+10.102.206.147	3c:52:82:70:fc:d8	(Unknown)
+10.102.206.152	10:60:4b:7a:43:57	Hewlett Packard
+10.102.206.154	ec:8e:b5:21:6f:0a	Hewlett Packard
+10.102.206.160	d4:85:64:95:af:e7	Hewlett Packard
+10.102.206.162	00:15:5d:71:3a:10	Microsoft Corporation
+10.102.206.164	48:ba:4e:39:36:52	(Unknown)
+10.102.206.168	b8:83:03:47:6c:5a	(Unknown)
+10.102.206.175	00:10:7f:15:9b:ea	CRESTRON ELECTRONICS, INC.
+10.102.206.178	ec:b1:d7:3b:7c:81	Hewlett Packard
+10.102.206.186	3c:d9:2b:65:b3:63	Hewlett Packard
+10.102.206.201	90:b1:1c:a0:16:31	Dell Inc.
+10.102.206.204	dc:4a:3e:58:4b:fb	Hewlett Packard
+10.102.206.209	d8:9e:f3:14:5c:02	(Unknown)
+10.102.206.212	a8:20:66:1c:bc:2a	Apple, Inc.
+10.102.206.213	ec:b1:d7:3b:be:25	Hewlett Packard
+10.102.206.216	48:0f:cf:4e:33:d5	Hewlett Packard
+10.102.206.218	f4:39:09:64:c9:50	(Unknown)
+10.102.206.223	a0:d3:c1:0f:5d:5c	Hewlett Packard
+10.102.206.225	c0:ea:e4:58:7c:f5	Sonicwall
+10.102.206.227	b8:85:84:9c:66:70	(Unknown)
+10.102.206.234	dc:4a:3e:3d:14:41	Hewlett Packard
+10.102.206.235	3c:d9:2b:6b:4a:ff	Hewlett Packard
+10.102.206.236	18:d6:c7:6d:75:c6	TP-LINK TECHNOLOGIES CO.,LTD.
+10.102.206.244	5c:f9:dd:6c:9e:7d	Dell Inc.
+10.102.206.245	10:62:e5:13:db:40	(Unknown)
+10.102.206.246	74:46:a0:8e:51:64	Hewlett Packard
+10.102.206.247	34:17:eb:96:fd:c4	Dell Inc.
+10.102.206.251	00:10:7f:59:e8:35	CRESTRON ELECTRONICS, INC.
+
+56 packets received by filter, 0 packets dropped by kernel
+Ending arp-scan 1.9.5: 256 hosts scanned in 2.700 seconds (94.81 hosts/sec). 56 responded

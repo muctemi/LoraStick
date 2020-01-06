@@ -1,0 +1,50 @@
+import rn2903
+import time
+import sys
+
+def test(ser,count, sf)
+	rn2903.setSpr(ser,sf)
+        dumy="AABBCC"
+	strsf = str(sf)
+        if ( sf < 10 ):
+		strsf = "0"+strsf
+	for i in range(count):
+		str_i = str(i)
+		if ( i < 10 ):
+			str_i = "0"+str_i
+		payload = str_i + strsf + "AA" +str(int(time.time()))
+                
+
+def simulateChalangeResponse(ser,payload):
+	print("size = " + str(sys.getsizeof(payload.encode('ascii'))))
+	rn2903.macSend(ser,ct) #operation command
+	rn2903.macReceive(ser) # challange
+	rn2903.macSend(ser,ct) # response
+	rn2903.macReceive(ser) # ack
+
+def simulate0RTT(ser,payload):
+        print("size = " + str(sys.getsizeof(payload.encode('ascii'))))
+        rn2903.macSend(ser,ct) #operation command with MAC
+        rn2903.macReceive(ser) # response
+
+
+print("Connect Device")
+ser = rn2903.open("/dev/ttyUSB0")
+print("Done")
+rn2903.joinOTAA(ser,"","")
+dumy="AABBCC"
+ct = "100A"+dumy+str(int(time.time()))
+print("size = " + str(sys.getsizeof(ct.encode('ascii'))))
+print(ct)
+rt = rn2903.macSend(ser,ct)
+print(rt)
+rt = rn2903.macSend(ser,ct)
+print(rt)
+rt = rn2903.macReceive(ser)
+print(rt)
+#while(1):
+#    pyb.LED(2).toggle()
+#    temperature_read = d.read_temps()
+#    print("Temperature = " + str(temperature_read))
+#    lora.send_str(str(temperature_read))
+#    pyb.delay(500)
